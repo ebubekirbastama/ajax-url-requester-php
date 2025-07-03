@@ -30,7 +30,7 @@ Bu proje, PHP ve AJAX kullanarak alt alta verilen URL'lere belirlenen aralıklar
 ----------------
 - `index.php` : Arayüz ve AJAX yönetimi  
 - `process.php` : İstek işlemleri ve cURL entegrasyonu  
-- `README.txt` : Proje açıklama dosyası  
+
 
 ⚡ Gereksinimler:
 -----------------
